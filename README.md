@@ -228,8 +228,10 @@ Please use this project responsibly and respect local privacy laws and regulatio
 
 ## 👨‍💻 Author
 
-**Bradley Tech**
-Digital Transformation Enthusiast • Software Engineer • Digital Marketing Expert
+**Bradley Ochieng**
+
+Digital Transformation Enthusiast • Software Engineer •   Digital Marketing Expert
+
 ---
 
 ## 🌐 Connect
